@@ -53,6 +53,7 @@ section{
 }
 .center h1{
     font-size: 50px;
+    text-align: center;
 }
 .work-images{
     margin: 50px;
